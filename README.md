@@ -1,2 +1,3 @@
-# first-site
-my first project
+# first-git
+my first git-project
+
